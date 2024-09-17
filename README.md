@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishan Tharaka</h1>
 <h3 align="center">Software Engineering Student</h3>
+<img src=""C:\Users\Nisha\OneDrive\Pictures\Browser\2023_03_13_00_24_IMG_0308 (1).JPG""></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayawickrma&label=Profile%20views&color=0e75b6&style=flat" alt="jayawickrma" /> </p>
 

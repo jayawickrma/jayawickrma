@@ -1,8 +1,9 @@
+
+<h1 align="center">Hi 👋, I'm Nishan Tharaka</h1>
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Web+Developer;Backend+Development" alt="devtech77snake" /></a>
 </p>
-<h1 align="center">Hi 👋, I'm Nishan Tharaka</h1>
-<h3 align="center">Software Engineering Student</h3>
+<!-- <h3 align="center">Software Engineering Student</h3> -->
 
 <!-- <img src=""C:\Users\Nisha\OneDrive\Pictures\Browser\2023_03_13_00_24_IMG_0308 (1).JPG""></img> -->
 

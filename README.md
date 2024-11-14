@@ -2,7 +2,11 @@
 <h3 align="center">Software Engineering Student</h3>
 <!-- <img src=""C:\Users\Nisha\OneDrive\Pictures\Browser\2023_03_13_00_24_IMG_0308 (1).JPG""></img> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayawickrma&label=Profile%20views&color=0e75b6&style=flat" alt="jayawickrma" /> </p>
+### Thanks for visiting :❤️:
+![VisitorCount](https://profile-counter.glitch.me/onlinehub0808/count.svg)
+&emsp;
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayawickrma" alt="jayawickrma" /></a> </p>
 

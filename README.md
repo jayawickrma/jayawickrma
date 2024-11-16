@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Web+Developer;Backend+Development" alt="devtech77snake" /></a>
 </p>
-![Developer at Work](https://files.oaiusercontent.com/file-tqXzpMsD8yne1reZ1qx5jlLO?se=2024-11-16T16%3A08%3A54Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D227a350a-2d93-4e9a-b2ec-ea96e027c367.webp&sig=NWFpH%2BpZx18gaqE8VV0lT3SzWbZV2KG8Ibs7eL9HA1I%3D)
+
 
 
 ### Thanks for visiting :❤️:
@@ -44,3 +44,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayawickrma&show_icons=true&locale=en&layout=compact" alt="jayawickrma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayawickrma&show_icons=true&locale=en" alt="jayawickrma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayawickrama&" alt="jayawickrama" /></p>

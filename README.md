@@ -3,9 +3,8 @@
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Web+Developer;Backend+Development" alt="devtech77snake" /></a>
 </p>
-<!-- <h3 align="center">Software Engineering Student</h3> -->
+![Developer at Work](https://files.oaiusercontent.com/file-tqXzpMsD8yne1reZ1qx5jlLO?se=2024-11-16T16%3A08%3A54Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D227a350a-2d93-4e9a-b2ec-ea96e027c367.webp&sig=NWFpH%2BpZx18gaqE8VV0lT3SzWbZV2KG8Ibs7eL9HA1I%3D)
 
-<!-- <img src=""C:\Users\Nisha\OneDrive\Pictures\Browser\2023_03_13_00_24_IMG_0308 (1).JPG""></img> -->
 
 ### Thanks for visiting :❤️:
 ![VisitorCount](https://profile-counter.glitch.me/onlinehub0808/count.svg)

@@ -6,9 +6,10 @@
 
 
 
-### Thanks for visiting :❤️:
-![VisitorCount](https://profile-counter.glitch.me/onlinehub0808/count.svg)
-&emsp;
+### Profile Views - ![VisitorCount](https://profile-counter.glitch.me/onlinehub0808/count.svg)&emsp;
+<br>
+
+
 ![About Me](Asserts/abutme.webp)
 
 

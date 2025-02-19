@@ -3,6 +3,26 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Web+Developer;Backend+Development" alt="devtech77snake" /></a>
 </p>
 
+# About Me  
+
+## ML | Algorithms | OOP  
+
+- 🎯 Passionate about software development and engineering  
+- 🎓 Currently working on [Your Current Focus, e.g., Social Media Platform with Spring Boot]  
+- 🌍 Based in [Your Location]  
+
+```java
+class Bio extends SoftwareEngineer {
+    name     = "[Nishan Tharaka]";
+    title    = "[Undergraduate Software engineer]";
+    location = "[Kalutara]";
+}
+
+class Skills extends SoftwareEngineer {
+    languages  = ["Java", "JavaScript", "Python", "TypeScript", "HTML/CSS"];
+    databases  = ["MySQL", "MongoDB"];
+    frameworks = ["Spring Boot", "React", "Express.js", "WebSocket"];
+}
 
 
 ### Profile Views - ![VisitorCount](https://profile-counter.glitch.me/onlinehub0808/count.svg)&emsp;

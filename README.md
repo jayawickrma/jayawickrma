@@ -1,81 +1,77 @@
 <h1 align="center">Hi 👋, I'm Nishan Tharaka</h1>
+
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Web+Developer;Backend+Development" alt="devtech77snake" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Web+Developer;Backend+Development" alt="typing-animation" /></a>
 </p>
 
-# About Me  
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/nishan-tharaka-7b09a52ab/" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /> </a>
+  <a href="https://fb.com/nishan.tharaka.9235" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /> </a>
+  <a href="https://instagram.com/_nishan_tharaka" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /> </a>
+</p>
 
-## ML | Algorithms | OOP  
+---
 
-- 🎯 Passionate about software development and engineering  
-- 🎓 Currently working on [Your Current Focus, e.g., Social Media Platform with Spring Boot]  
-- 🌍 Based in [Your Location]  
+## 🚀 About Me  
+
+👨‍💻 I'm an **Undergraduate Software Engineer** passionate about designing and developing scalable, efficient, and maintainable software solutions.  
+🌍 Based in **Kalutara**, Sri Lanka, I specialize in **backend development**, **databases**, and **web technologies**.  
+💡 I enjoy solving complex problems, working with modern frameworks, and contributing to open-source projects.  
+📚 Always eager to learn and explore new **technologies**, **algorithms**, and **design patterns**.  
 
 ```java
 class Bio extends SoftwareEngineer {
-    name     = "[Nishan Tharaka]";
-    title    = "[Undergraduate Software engineer]";
-    location = "[Kalutara]";
+    name     = "Nishan Tharaka";
+    title    = "Undergraduate Software Engineer";
+    location = "Kalutara, Sri Lanka";
 }
 
 class Skills extends SoftwareEngineer {
-    languages  = ["Java", "JavaScript", "Python", "TypeScript", "HTML/CSS"];
-    databases  = ["MySQL", "MongoDB"];
+    languages  = ["Java", "JavaScript", "Python", "TypeScript", "HTML", "CSS"];
+    databases  = ["MySQL", "MongoDB", "PostgreSQL"];
     frameworks = ["Spring Boot", "React", "Express.js", "WebSocket"];
 }
+```
 
+## 🛠 Tech Stack
 
-### Profile Views - ![VisitorCount](https://profile-counter.glitch.me/onlinehub0808/count.svg)&emsp;
-<br>
-<br>
-
-![About Me](Asserts/abutme.webp)
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayawickrma" alt="jayawickrma" /></a> </p>
-
-# Connect With me:
-<br>
+### Programming Languages
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nishan-tharaka-7b09a52ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishan-tharaka-7b09a52ab/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/nishan.tharaka.9235?mibextid=kfxxjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nishan.tharaka.9235?mibextid=kfxxjd" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_nishan_tharaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_nishan_tharaka" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-<br>
-<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-<br>
-<br>
+### Frameworks & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-%23000000.svg?style=for-the-badge&logo=websocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
- # 🧵Database & Skills
- ![MySQL](https://skillicons.dev/icons?i=mysql) 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres) 
-![SQLite](https://skillicons.dev/icons?i=sqlite) 
-![MongoDB](https://skillicons.dev/icons?i=mongodb) 
-![GraphQL](https://skillicons.dev/icons?i=graphql) 
-![Firebase](https://skillicons.dev/icons?i=firebase) 
-![Supabase](https://skillicons.dev/icons?i=supabase) 
-![Redis](https://skillicons.dev/icons?i=redis) 
-![Postman](https://skillicons.dev/icons?i=postman)
-<br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayawickrma&show_icons=true&locale=en&layout=compact" alt="jayawickrma" /></p>
+### Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayawickrma&show_icons=true&locale=en" alt="jayawickrma" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayawickrama" alt="jayawickrama" /></p>
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayawickrma&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayawickrma&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayawickrma&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+

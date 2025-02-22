@@ -58,11 +58,11 @@
 ### 📊 GitHub Statistics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jayawickrma&show_icons=true&theme=dracula"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayawickrma&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayawickrma&theme=dracula&layout=compact"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayawickrma&theme=dracula&layout=compact"/>
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayawickrma&theme=dracula"/>
 </p>
 
 ### 💫 Connect with me
